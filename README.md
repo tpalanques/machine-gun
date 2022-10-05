@@ -1,10 +1,14 @@
 # MachineGun virtual machine emulator
 
+[//]: # (FIXME: Add license - https://github.com/tpalanques/machine-gun/issues/6)
+
 ![Contributors](https://img.shields.io/github/contributors/tpalanques/machine-gun?style=plastic)
+![Downloads](https://img.shields.io/github/downloads/tpalanques/machine-gun/total)
 ![Forks](https://img.shields.io/github/forks/tpalanques/machine-gun)
 ![Stars](https://img.shields.io/github/stars/tpalanques/machine-gun)
-![Licence](https://img.shields.io/github/license/tpalanques/machine-gun)
 ![Issues](https://img.shields.io/github/issues/tpalanques/machine-gun)
+![Closed](https://img.shields.io/github/issues-closed-raw/tpalanques/machine-gun)
+![Licence](https://img.shields.io/github/license/tpalanques/machine-gun)
 ![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)
 
 ## 1. Motivation

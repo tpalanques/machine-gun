@@ -23,14 +23,12 @@ virtualization technologies enabled. Note it builds development and
 sand-boxing environments, it **should not be used in production environments** as
 it may have some security issues.
 
-[//]: # (FIXME: Broken link - https://github.com/tpalanques/machine-gun/issues/5)
-
 This project is also a way to learn some _bash_, _Docker_ and maybe some 'system
 administration'. I'll try to explain things that I consider useful in an easy
 way, not necessarily in a strict way. Some technologies that I use are 
 really deep and won't be explained in here, if you have any questions please
 refer to the proper website, you'll find a list of contributors in the [Credits
-and contributors](#) section I'll make my best to keep this list up to date:
+and contributors](#4-credits-and-contributions) section I'll make my best to keep this list up to date:
 
 # 2. Description
 MachineGun installs docker in your machine and runs some services to build a

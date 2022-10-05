@@ -6,7 +6,7 @@
 ![Licence](https://img.shields.io/github/license/tpalanques/machine-gun)
 ![Issues](https://img.shields.io/github/issues/tpalanques/machine-gun)
 
-## Motivation
+## 1. Motivation
 As you may know there's plenty of published virtualization tools: VirtualBox,
 VMWare, QEMU ... just to name a few. Unfortunately in my vastly ignorance and
 as far as I know, all of them need chipset virtualization enabled, which is
@@ -30,7 +30,7 @@ refer to the proper website, I'll make my best to keep this list up to date:
 + [PHP](https://www.php.net/)
 + [MariaDB](https://mariadb.org/)
 
-# Description
+# 2. Description
 MachineGun installs docker in your machine and runs some services to build a
 _web server_ system:
 * An Apache server with an FPM proxy configuration
@@ -55,7 +55,10 @@ possible, that's why I'll use strict bash, no Python, Perl or any other scriptin
 language will be used on top of that and packages will be kept as minimum as
 it can be, this way installation will be easier.
 
-# Contributions
+# 3. Installation and running
+By now project can't be run :(
+
+# 4. Contributions
 Are more than welcome, just open an issue in
 [here](https://github.com/tpalanques/machine-gun/issues/new/choose) and I'll
 check it out ASAP.

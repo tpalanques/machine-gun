@@ -40,6 +40,21 @@ _web server_ system:
   * PDO
 * A MariaDB server
 
+I'm using Docker because it's a trendy technology, it's well documented and
+it runs without machine emulation. It does not run virtual machines but it
+can be abstracted as if it were. Docker's main goal is to start services 
+easily, so what we'll do is start a web sand-boxing service which is typically
+hosted outside the box, this time it will be inside!
+
+As said, I'm aware docker does not build any operating system nor machine and 
+probably I'll end up by naming them machines at any point though they're 
+containers, I'll do my best to be technically correct.
+
+Also, one of the goals in this project is to keep the installer as easy as
+possible, that's why I'll use strict bash, no Python, Perl or any other scripting
+language will be used on top of that and packages will be kept as minimum as
+it can be, this way installation will be easier.
+
 # Contributions
 Are more than welcome, just open an issue in
 [here](https://github.com/tpalanques/machine-gun/issues/new/choose) and I'll
